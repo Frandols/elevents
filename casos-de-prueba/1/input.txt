@@ -1,0 +1,13 @@
+catch "inicio" {
+  saludo = "Hola";
+
+  catch "responder" {
+    respuesta = "¡Hola! ¿Cómo estás?";
+  };
+
+  if saludo == "Hola" {
+    throw "responder";
+  };
+};
+
+throw "inicio";

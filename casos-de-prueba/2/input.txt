@@ -1,0 +1,13 @@
+catch "llamadaEntrante" {
+  estado = "disponible";
+
+  catch "responderLlamada" {
+    mensaje = "¡Hola! Gracias por llamar.";
+  };
+
+  if estado == "disponible" {
+    throw "responderLlamada";
+  };
+};
+
+throw "llamadaEntrante";

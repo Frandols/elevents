@@ -1,0 +1,5 @@
+catch "mensaje {
+  texto = "Hola mundo";
+};
+
+throw "mensaje";

@@ -1,0 +1,7 @@
+catch "inicio" {
+  catch "interno" {
+    valor = "ok";
+  ;
+};
+
+throw "inicio";

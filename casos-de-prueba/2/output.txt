@@ -1,0 +1,182 @@
+
+Programa
+  Declaracion
+    DeclaracionComportamental
+      Catch
+        Cadena
+          Caracteres
+            Caracter: "l"
+            Caracter: "l"
+            Caracter: "a"
+            Caracter: "m"
+            Caracter: "a"
+            Caracter: "d"
+            Caracter: "a"
+            Caracter: "E"
+            Caracter: "n"
+            Caracter: "t"
+            Caracter: "r"
+            Caracter: "a"
+            Caracter: "n"
+            Caracter: "t"
+            Caracter: "e"
+        Procedimiento
+          DeclaracionProcedural
+            Instruccion
+              Asignacion
+                Identificador
+                  Letra: "e"
+                  Letra: "s"
+                  Letra: "t"
+                  Letra: "a"
+                  Letra: "d"
+                  Letra: "o"
+                Valor
+                  OperacionLogica
+                    ComparacionLogica
+                      Dato
+                        Cadena
+                          Caracteres
+                            Caracter: "d"
+                            Caracter: "i"
+                            Caracter: "s"
+                            Caracter: "p"
+                            Caracter: "o"
+                            Caracter: "n"
+                            Caracter: "i"
+                            Caracter: "b"
+                            Caracter: "l"
+                            Caracter: "e"
+            Instruccion
+              DeclaracionComportamental
+                Catch
+                  Cadena
+                    Caracteres
+                      Caracter: "r"
+                      Caracter: "e"
+                      Caracter: "s"
+                      Caracter: "p"
+                      Caracter: "o"
+                      Caracter: "n"
+                      Caracter: "d"
+                      Caracter: "e"
+                      Caracter: "r"
+                      Caracter: "L"
+                      Caracter: "l"
+                      Caracter: "a"
+                      Caracter: "m"
+                      Caracter: "a"
+                      Caracter: "d"
+                      Caracter: "a"
+                  Procedimiento
+                    DeclaracionProcedural
+                      Instruccion
+                        Asignacion
+                          Identificador
+                            Letra: "m"
+                            Letra: "e"
+                            Letra: "n"
+                            Letra: "s"
+                            Letra: "a"
+                            Letra: "j"
+                            Letra: "e"
+                          Valor
+                            OperacionLogica
+                              ComparacionLogica
+                                Dato
+                                  Cadena
+                                    Caracteres
+                                      Caracter: "¡"
+                                      Caracter: "H"
+                                      Caracter: "o"
+                                      Caracter: "l"
+                                      Caracter: "a"
+                                      Caracter: "!"
+                                      Caracter: " "
+                                      Caracter: "G"
+                                      Caracter: "r"
+                                      Caracter: "a"
+                                      Caracter: "c"
+                                      Caracter: "i"
+                                      Caracter: "a"
+                                      Caracter: "s"
+                                      Caracter: " "
+                                      Caracter: "p"
+                                      Caracter: "o"
+                                      Caracter: "r"
+                                      Caracter: " "
+                                      Caracter: "l"
+                                      Caracter: "l"
+                                      Caracter: "a"
+                                      Caracter: "m"
+                                      Caracter: "a"
+                                      Caracter: "r"
+                                      Caracter: "."
+            Instruccion
+              Bifurcacion
+                OperacionLogica
+                  ComparacionLogica
+                    Identificador
+                      Letra: "e"
+                      Letra: "s"
+                      Letra: "t"
+                      Letra: "a"
+                      Letra: "d"
+                      Letra: "o"
+                    OperadorLogico: "=="
+                    Dato
+                      Cadena
+                        Caracteres
+                          Caracter: "d"
+                          Caracter: "i"
+                          Caracter: "s"
+                          Caracter: "p"
+                          Caracter: "o"
+                          Caracter: "n"
+                          Caracter: "i"
+                          Caracter: "b"
+                          Caracter: "l"
+                          Caracter: "e"
+                Procedimiento
+                  DeclaracionProcedural
+                    Instruccion
+                      DeclaracionComportamental
+                        Throw
+                          Cadena
+                            Caracteres
+                              Caracter: "r"
+                              Caracter: "e"
+                              Caracter: "s"
+                              Caracter: "p"
+                              Caracter: "o"
+                              Caracter: "n"
+                              Caracter: "d"
+                              Caracter: "e"
+                              Caracter: "r"
+                              Caracter: "L"
+                              Caracter: "l"
+                              Caracter: "a"
+                              Caracter: "m"
+                              Caracter: "a"
+                              Caracter: "d"
+                              Caracter: "a"
+  Declaracion
+    DeclaracionComportamental
+      Throw
+        Cadena
+          Caracteres
+            Caracter: "l"
+            Caracter: "l"
+            Caracter: "a"
+            Caracter: "m"
+            Caracter: "a"
+            Caracter: "d"
+            Caracter: "a"
+            Caracter: "E"
+            Caracter: "n"
+            Caracter: "t"
+            Caracter: "r"
+            Caracter: "a"
+            Caracter: "n"
+            Caracter: "t"
+            Caracter: "e"

@@ -1,0 +1,13 @@
+catch "inicio" {
+  puntaje = 3 + 4 * 2;
+
+  catch "felicitacion" {
+    mensaje = "¡Muy bien!";
+  };
+
+  if puntaje > 10 {
+    throw "felicitacion";
+  };
+};
+
+throw "inicio";

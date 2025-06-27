@@ -1,0 +1,13 @@
+catch "sensor" {
+  energia = 2 ^ 3 - 1;
+
+  catch "activarSistema" {
+    estado = "activo";
+  };
+
+  if energia == 7 or energia > 10 {
+    throw "activarSistema";
+  };
+};
+
+throw "sensor";

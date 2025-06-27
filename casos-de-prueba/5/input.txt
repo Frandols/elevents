@@ -1,0 +1,13 @@
+catch "evaluar" {
+  nota = 6 + 1;
+
+  catch "aprobado" {
+    mensaje = "Alumno aprobado";
+  };
+
+  if nota > 7 and nota < 10 {
+    throw "aprobado";
+  };
+};
+
+throw "evaluar";

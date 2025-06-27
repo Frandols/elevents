@@ -1,0 +1,6 @@
+catch "evento" {
+  mensaje = "Hola"
+  throw "evento";
+};
+
+throw "evento";
